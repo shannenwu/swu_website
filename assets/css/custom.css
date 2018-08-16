@@ -1,0 +1,8 @@
+.header-content {
+    margin-left: 2rem;
+}
+
+.intro-container {
+    display: flex;
+    flex-direction: row;
+}
