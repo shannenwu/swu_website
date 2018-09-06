@@ -2,12 +2,17 @@
     margin-left: 2rem;
 }
 
-/*
-.intro-container {
-    display: flex;
-    flex-direction: row;
+.carousel-item {
+    height: 30rem;
 }
 
-.intro-container img{
-    width: 100%;
-}*/
+.carousel-item > img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#skatingCarousel {
+    margin-bottom: 4rem;
+}
+
