@@ -1,20 +1,31 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#Shannen Wu
 
-AJ
-aj@lkn.io | @ajlkn
+This is my personal website!
+
+##Links
+
+###About Me 
+Some basic background information.
+
+###Portfolio
+Here's some stuff that I've done!
+
+###Skating
+An entire tab dedicated to my life on the ice!
+
+###Contact
+Email me
 
 
-Credits:
+###Contributions
+Website theme:
+    Massively by HTML5 UP
+    html5up.net | @ajlkn
+Icons:
+    Font Awesome(fontawesome.io)
+Other:
+    Bootstrap4 (getbootstrap.com)
+    jQuery (jquery.com)
+    Scrollex (github.com/ajlkn/jquery.scrollex)
+    Responsive Tools (github.com/ajlkn/responsive-tools)
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)

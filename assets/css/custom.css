@@ -1,15 +1,18 @@
 .header-content {
     margin-left: 2rem;
+    margin-bottom: 2rem;
 }
 
-.carousel-item {
-    height: 30rem;
+.header-skating p {
+    margin-bottom: 0rem;
 }
 
-.carousel-item > img {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+.image-caption > p {
+    margin-bottom: 0rem;
+}
+
+.contact {
+    text-align: center;
 }
 
 #skatingCarousel {
